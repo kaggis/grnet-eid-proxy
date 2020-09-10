@@ -15,6 +15,7 @@ pipeline {
                     changeset 'docs/**'
                     changeset 'website/**'
                 }
+                branch pattern: "master|devel", comparator: "REGEXP"
             }
             agent {
                 docker {
