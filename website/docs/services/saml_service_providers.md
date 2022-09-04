@@ -1,6 +1,7 @@
 ---
 id: saml_service_providers
 title: SAML Service Providers
+sidebar_position: 3
 ---
 
 

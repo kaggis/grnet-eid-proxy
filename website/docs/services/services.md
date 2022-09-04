@@ -1,6 +1,7 @@
 ---
 id: services
 title: Services 
+sidebar_position: 1
 ---
 
 This section provides information about connecting services to the GRNET eID Proxy in order to enable authentication through the eIDAS-Node infrastructure.
