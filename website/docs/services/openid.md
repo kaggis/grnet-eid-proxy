@@ -1,6 +1,7 @@
 ---
 id: openid
 title: OpenID Connect Clients
+sidebar_position: 2
 ---
 
 

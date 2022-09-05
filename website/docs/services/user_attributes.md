@@ -1,6 +1,7 @@
 ---
 id: user_attributes
 title: User Attributes
+sidebar_position: 4
 ---
 
 ## User attributes

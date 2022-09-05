@@ -1,7 +1,7 @@
 ---
 id: about
 title: GRNET eID Proxy
-sidebar_label: GRNET eID Proxy
+sidebar_position: 1
 slug: /
 ---
 
